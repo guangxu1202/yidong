@@ -1,0 +1,58 @@
+
+.pr{position: relative;}
+.main{background-color: #fff; background-repeat: no-repeat; padding-top: 315px; background-position: top center;}
+.banner01{background-image: url(img/banner01.jpg);}/*集团介绍*/
+.banner02{background-image: url(img/banner02.jpg);}/*资讯中心*/
+.banner03{background-image: url(img/banner03.jpg);}/*人力资源*/
+.banner04{background-image: url(img/banner04.jpg);}/*益东地产*/
+.banner05{background-image: url(img/banner05.jpg);}/*社会责任*/
+.banner06{background-image: url(img/banner06.jpg);}/*益东金融*/
+.banner07{background-image: url(img/banner07.jpg);}/*益东科技*/
+.banner08{background-image: url(img/banner08.jpg);}/*益东矿业*/
+.banner09{background-image: url(img/banner09.jpg);}/*益东旅游*/
+.banner10{background-image: url(img/banner10.jpg);}/*益东影像*/
+
+.icontent{ margin: 0 auto; padding:9px 30px 10px 31px; width: 1003px;min-height: 320px;background: url(img/content24png.png) no-repeat; position: relative;}
+    .ic_bar{ position: absolute; top: 9px; right: 31px; width: 292px; min-height: 320px;background-color: #e9e9e9;}
+        .ic_bar .listhead{ font-size: 20px; padding: 20px; padding-left: 25px; padding-bottom: 10px;}
+        .ic_bar .listhead img{ vertical-align: middle; margin-top: -3px; margin-right: 5px;}
+        .subnav{padding-left: 15px;}
+        .subnav li{ background: url(img/sublink_ico.gif) left center no-repeat; padding-left: 15px; height: 30px; line-height: 30px; font-size: 16px;}
+        .subnav li a{ display: block; color: #333;}
+    .ic_main{ padding-right: 300px;word-wrap:break-word;word-break:break-all;}
+        .im_title{ padding: 30px 40px 20px; font-size: 24px;}
+        .im_content{ padding: 0 60px 40px 40px; line-height: 24px; font-size: 14px; color: #333;}
+        .tin2{text-indent: 2em; padding-bottom: 10px;}
+
+
+/*about*/
+.foot_about{ padding-top: 20px; color: #5b5b5b;}
+    .foot_about .fa_title{ font-size: 18px; line-height: 30px; color: #000;}
+    .foot_about .fa_des{ line-height: 20px; text-indent: 2em;}
+    .foot_info{ width: 650px; float: left;}
+    .foot_info .ii_foot{ color: #5b5b5b; padding: 10px 0px 20px;}
+    .foot_atten{ text-align: right;color: #5b5b5b; position: absolute; top: 90px; right: 0px; height: 60px; line-height: 60px; background: url(img/focus_ico.gif) no-repeat right center; padding-right: 90px; font-weight: 700;}
+
+
+/*newslist*/
+.newslist li{ padding-bottom: 20px;}
+.newslist li .title{font-size: 20px; line-height: 24px;}
+.newslist li .title a{color: #000;}
+
+
+
+.im_jobs ul li{ padding-left: 80px; min-height: 24px;}
+.im_jobs ul li em{float: left; width: 80px; margin-left: -80px;}
+.im_n_title{line-height: 40px; font-size: 18px; padding-bottom: 10px; font-weight: 700;}
+
+.im_keyword{padding:0px 0px 20px 40px;color:#cc0000;}
+.im_keyword span{ color:#333;font-size:14px;}
+
+.im_content img{max-width:600px;}
+	.MPdiscription{ margin:0px 30px 20px 40px; padding:10px;background-color:#f2f2f2;border:1px solid #e9e9e9; line-height:18px;}
+	.ballTag{padding:0px 30px 20px 40px; text-align:left;}
+
+.ic_main strong,.ic_main b{font-weight:bold;}
+.whole{padding-right:0px;}
+.whole .im_title,.whole .ballTag{text-align:center}
+.im_content em{font-style:italic;}
